@@ -10,17 +10,17 @@ const songs = [
     {
         title: '1999',
         artist: 'Sleepy Hallow',
-        src: 'media/Sleepy Hallow - 1999.mp3'
+        src: 'media/Sleepy Hallow - 1999 (Lyric Video).mp3'
     },
     {
         title: '2055',
         artist: 'Sleepy Hallow',
-        src: 'media/Sleepy Hallow - 2055.mp3'
+        src: 'media/Sleepy Hallow - 2055 (Official Video).mp3'
     },
     {
         title: 'Drum Dummy',
         artist: 'Sheff G',
-        src: 'media/Sheff G - Drum Dummy.mp3'
+        src: 'media/Sheff G - Drum Dummy (Audio).mp3'
     }
 ];
 
